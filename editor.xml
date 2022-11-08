@@ -8,12 +8,27 @@
     <option name="IS_DND_ENABLED" value="false" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="disabledHintProviderIds">
-      <set>
-        <option value="JavaScript.js.type.hints" />
-      </set>
-    </option>
-    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <option name="lastViewedProviderKeyId" value="" />
+    <settingsMapElement>
+      <JavaScript.js.type.hints>
+        <Settings>
+          <option name="showForFunctions" value="true" />
+          <option name="showForShorthandFunctions" value="true" />
+          <option name="showForVariablesAndFields" value="true" />
+        </Settings>
+      </JavaScript.js.type.hints>
+      <TypeScript.ts.type.hints>
+        <Settings>
+          <option name="showForFunctions" value="true" />
+          <option name="showForShorthandFunctions" value="true" />
+          <option name="showForVariablesAndFields" value="true" />
+        </Settings>
+      </TypeScript.ts.type.hints>
+    </settingsMapElement>
+  </component>
+  <component name="PhpCodeFoldingSettings">
+    <option name="COLLAPSE_FUNCTION_BODY" value="true" />
+    <option name="COLLAPSE_METHOD_BODY" value="true" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
