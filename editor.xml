@@ -7,6 +7,7 @@
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="USE_EDITOR_FONT_IN_INLAYS" value="true" />
     <option name="IS_DND_ENABLED" value="false" />
+    <option name="BIDI_TEXT_DIRECTION" value="RTL" />
   </component>
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="" />
