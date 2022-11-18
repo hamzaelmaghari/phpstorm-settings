@@ -1,0 +1,12 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <option id="js.param.hints.show.names.for.all.args" value="true" />
+    <option id="js.only.show.names.for.all.args" value="true" />
+    <option id="php.show.names.for.all.args" value="true" />
+    <disabledLanguages>
+      <language id="Angular2Html" />
+      <language id="Vue" />
+      <language id="SQL" />
+    </disabledLanguages>
+  </component>
+</application>
