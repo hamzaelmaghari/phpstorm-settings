@@ -2,6 +2,7 @@
   <component name="UISettings">
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
     <option name="COLOR_BLINDNESS" value="deuteranopia" />
+    <option name="compactTreeIndents" value="true" />
     <option name="EDITOR_TAB_LIMIT" value="8" />
     <option name="HIDE_TOOL_STRIPES" value="true" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
@@ -10,6 +11,7 @@
     <option name="SHOW_NAVIGATION_BAR_MEMBERS" value="false" />
     <option name="SHOW_NAVIGATION_BAR" value="false" />
     <option name="SHOW_STATUS_BAR" value="false" />
+    <option name="showTreeIndentGuides" value="true" />
     <option name="CONTRAST_SCROLLBARS" value="true" />
   </component>
 </application>
